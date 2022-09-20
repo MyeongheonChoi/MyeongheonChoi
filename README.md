@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=0&height=300&section=header&text=Welcome!!!&desc=MHChoi's%20Github&descAlign=50&descAlignY=70&fontSize=100)
-<span style="font-size:250%">Hi there 👋</span>
+<b><span style="font-size:250%">Hi there 👋</span></b>  
 📊 **I'm in Applied Statistics at Yonsei Univ.**   
 💻 **Future Data Scientiest & AI Engineer**   
 ⚽ **Goal : Working Hard on Github and Blog..!**   
